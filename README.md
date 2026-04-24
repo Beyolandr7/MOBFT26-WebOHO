@@ -3,6 +3,7 @@
 Professional portal for the Open House Ormawa (OHO) event during Masa Orientasi Bersama (MOB) FT 2026 at Universitas Surabaya.
 
 📌 Overview
+
 Web OHO serves as a dedicated platform for managing the Open House Ormawa (OHO) event. It provides a gamified experience where students can explore different organizations, participate in quizzes, and track their participation status, all while maintaining a unified authentication state within the MOB FT 2026 digital ecosystem.
 
 Core Responsibilities
